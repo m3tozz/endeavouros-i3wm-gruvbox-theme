@@ -14,7 +14,8 @@ Gruvbox theme for Endeavouros i3wm layout.
 
 --------------------------------------------------------------------------
 
-To use, move the folders to .config and then enter the following command
+# Installation
+To use, move the folders to ~/.config folder and then enter the following command
 
 ``` bash
 
