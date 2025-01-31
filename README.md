@@ -13,6 +13,16 @@ Gruvbox theme for Endeavouros i3wm layout.
 </details>
 
 --------------------------------------------------------------------------
-> [!CAUTION]
->To use this theme, you must use the EndeavourOS i3wm layout. If you are not using it, first install the <a href="https://github.com/endeavouros-team/endeavouros-i3wm-setup/">EndeavourOS i3wm layout </a> on your system and then move the folders in the repo to your .config folder.
 
+To use, move the folders to .config and then enter the following command
+
+``` bash
+
+git clone https://github.com/tobi-wan-kenobi/bumblebee-status.git ~/.config/i3/bumblebee-status
+
+```
+
+--------------------------------------------------------------------------
+
+> [!CAUTION]
+>To use this theme, you need to use the EndeavourOS i3wm layout. If you are not using it, first install <a href="https://github.com/endeavouros-team/endeavouros-i3wm-setup/">EndeavourOS i3wm layout </a> on your system and then move the folders in the repo to your .config folder and enter the command I gave.
